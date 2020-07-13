@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1594605700 source:c:\users\pc\desktop\renameall\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdio>
+	<cstdlib>
+	<unistd.h>
+
